@@ -1,0 +1,14 @@
+runtime: python38 # Specify the runtime environment (python38 is simple and minimal)
+
+handlers:
+  - url: /
+
+    static_files: index.html
+
+    upload: index.html
+
+  - url: /(.+)
+
+    static_files: \1
+
+    upload: (.+)
