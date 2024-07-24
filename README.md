@@ -1,14 +1,12 @@
-# NJTRANSIT
+# NJ TRANSIT GEOFENCING
 
 ## Description
 
-NJTRANSIT is a project that [brief description of what the project does].
+NJTRANSIT is a omopnay that .... and this specific project focus on intragrating a feature know as the geofencing into the syytem of the app. You might ask; what is Geofencing? Geofencing is .... and [it informs users of advisories in their nearby surrounding, or in their desired travelling destination][brief description of what the project does].
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -22,3 +20,5 @@ cd NJTRANSIT
 [commands to install dependencies]
 
 ```
+
+## Contact
