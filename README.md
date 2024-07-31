@@ -2,7 +2,7 @@
 
 ## Description
 
-NJTRANSIT is a omopnay that .... and this specific project focus on intragrating a feature know as the geofencing into the syytem of the app. You might ask; what is Geofencing? Geofencing is .... and [it informs users of advisories in their nearby surrounding, or in their desired travelling destination][brief description of what the project does].
+NJ TRANSIT is a company that .... and this specific project focus on intragrating a feature know as the geofencing into the syytem of the app. You might ask; what is Geofencing? Geofencing is .... and [it informs users of advisories in their nearby surrounding, or in their desired travelling destination][brief description of what the project does].
 
 ## Table of Contents
 
